@@ -5,3 +5,7 @@ function funcc1() {
 function funcc2() {
  console.log('function 2 starts')
 }
+
+function funcc3() {
+ console.log('function 3 starts')
+}

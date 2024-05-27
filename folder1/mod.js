@@ -1,11 +1,5 @@
-function modulus(n1,n2) {
- console.log(n1 % n2)
+function bonVoyage() {
+  console.log('have a nice travel')
 }
 
-modulus(10,5)
-
-function subs(n1,n2) {
- console.log(n1 - n2)
-}
-
-subs(10,5)
+bonVoyage()
